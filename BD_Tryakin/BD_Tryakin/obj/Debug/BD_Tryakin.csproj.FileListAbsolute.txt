@@ -1,0 +1,200 @@
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\bin\Debug\BD_Tryakin.exe.config
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\bin\Debug\BD_Tryakin.exe
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\bin\Debug\BD_Tryakin.pdb
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\bin\Debug\EntityFramework.dll
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\bin\Debug\EntityFramework.xml
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\obj\Debug\MainWindow.g.cs
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\obj\Debug\Task5.g.cs
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\obj\Debug\App.g.cs
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin_MarkupCompile.cache
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin_MarkupCompile.lref
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\obj\Debug\MainWindow.baml
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\obj\Debug\Task5.baml
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin.g.resources
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin.Properties.Resources.resources
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin.csproj.GenerateResource.cache
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin.csproj.CoreCompileInputs.cache
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin.csproj.CopyComplete
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin.exe
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin.pdb
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\obj\Debug\Login.g.cs
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\obj\Debug\Registration.g.cs
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\obj\Debug\Login.baml
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\obj\Debug\Registration.baml
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\obj\Debug\MainWindow_Admin.g.cs
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\obj\Debug\MainWindow_Admin.baml
+C:\Users\Admin\Desktop\BD_Tryakin\BD_Tryakin\bin\Debug\BD_Tryakin.exe.config
+C:\Users\Admin\Desktop\BD_Tryakin\BD_Tryakin\bin\Debug\BD_Tryakin.exe
+C:\Users\Admin\Desktop\BD_Tryakin\BD_Tryakin\bin\Debug\BD_Tryakin.pdb
+C:\Users\Admin\Desktop\BD_Tryakin\BD_Tryakin\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\BD_Tryakin\BD_Tryakin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\BD_Tryakin\BD_Tryakin\bin\Debug\MaterialDesignColors.dll
+C:\Users\Admin\Desktop\BD_Tryakin\BD_Tryakin\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Admin\Desktop\BD_Tryakin\BD_Tryakin\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\BD_Tryakin\BD_Tryakin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\BD_Tryakin\BD_Tryakin\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Admin\Desktop\BD_Tryakin\BD_Tryakin\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Admin\Desktop\BD_Tryakin\BD_Tryakin\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Admin\Desktop\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\BD_Tryakin\BD_Tryakin\obj\Debug\AddElement_Admin.g.cs
+C:\Users\Admin\Desktop\BD_Tryakin\BD_Tryakin\obj\Debug\Login.g.cs
+C:\Users\Admin\Desktop\BD_Tryakin\BD_Tryakin\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\BD_Tryakin\BD_Tryakin\obj\Debug\MainWindow_Admin.g.cs
+C:\Users\Admin\Desktop\BD_Tryakin\BD_Tryakin\obj\Debug\Registration.g.cs
+C:\Users\Admin\Desktop\BD_Tryakin\BD_Tryakin\obj\Debug\Task5.g.cs
+C:\Users\Admin\Desktop\BD_Tryakin\BD_Tryakin\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin_MarkupCompile.cache
+C:\Users\Admin\Desktop\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin_MarkupCompile.lref
+C:\Users\Admin\Desktop\BD_Tryakin\BD_Tryakin\obj\Debug\AddElement_Admin.baml
+C:\Users\Admin\Desktop\BD_Tryakin\BD_Tryakin\obj\Debug\Login.baml
+C:\Users\Admin\Desktop\BD_Tryakin\BD_Tryakin\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\BD_Tryakin\BD_Tryakin\obj\Debug\MainWindow_Admin.baml
+C:\Users\Admin\Desktop\BD_Tryakin\BD_Tryakin\obj\Debug\Registration.baml
+C:\Users\Admin\Desktop\BD_Tryakin\BD_Tryakin\obj\Debug\Task5.baml
+C:\Users\Admin\Desktop\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin.g.resources
+C:\Users\Admin\Desktop\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin.Properties.Resources.resources
+C:\Users\Admin\Desktop\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin.csproj.CopyComplete
+C:\Users\Admin\Desktop\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin.exe
+C:\Users\Admin\Desktop\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin.pdb
+C:\Users\Admin\Desktop\BD_Tryakin\BD_Tryakin\obj\Debug\App.baml
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\bin\Debug\MaterialDesignColors.dll
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\bin\Debug\MaterialDesignColors.pdb
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\obj\Debug\App.baml
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\obj\Debug\AddElement.g.cs
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\obj\Debug\ReportInvoice.g.cs
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\obj\Debug\AddElement.baml
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\obj\Debug\ReportInvoice.baml
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\в\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\в\BD_Tryakin\BD_Tryakin\obj\Debug\AddElement.g.cs
+C:\Users\Admin\Desktop\в\BD_Tryakin\BD_Tryakin\obj\Debug\Login.g.cs
+C:\Users\Admin\Desktop\в\BD_Tryakin\BD_Tryakin\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\в\BD_Tryakin\BD_Tryakin\obj\Debug\MainWindow_Admin.g.cs
+C:\Users\Admin\Desktop\в\BD_Tryakin\BD_Tryakin\obj\Debug\Registration.g.cs
+C:\Users\Admin\Desktop\в\BD_Tryakin\BD_Tryakin\obj\Debug\ReportInvoice.g.cs
+C:\Users\Admin\Desktop\в\BD_Tryakin\BD_Tryakin\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\в\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin_MarkupCompile.cache
+C:\Users\Admin\Desktop\в\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin_MarkupCompile.lref
+C:\Users\Admin\Desktop\в\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin.exe
+C:\Users\Admin\Desktop\в\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin.pdb
+C:\Users\Admin\Desktop\в\BD_Tryakin\BD_Tryakin\bin\Debug\BD_Tryakin.exe.config
+C:\Users\Admin\Desktop\в\BD_Tryakin\BD_Tryakin\bin\Debug\BD_Tryakin.exe
+C:\Users\Admin\Desktop\в\BD_Tryakin\BD_Tryakin\bin\Debug\BD_Tryakin.pdb
+C:\Users\Admin\Desktop\в\BD_Tryakin\BD_Tryakin\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\в\BD_Tryakin\BD_Tryakin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\в\BD_Tryakin\BD_Tryakin\bin\Debug\MaterialDesignColors.dll
+C:\Users\Admin\Desktop\в\BD_Tryakin\BD_Tryakin\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Admin\Desktop\в\BD_Tryakin\BD_Tryakin\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\в\BD_Tryakin\BD_Tryakin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\в\BD_Tryakin\BD_Tryakin\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Admin\Desktop\в\BD_Tryakin\BD_Tryakin\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Admin\Desktop\в\BD_Tryakin\BD_Tryakin\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Admin\Desktop\в\BD_Tryakin\BD_Tryakin\obj\Debug\App.baml
+C:\Users\Admin\Desktop\в\BD_Tryakin\BD_Tryakin\obj\Debug\AddElement.baml
+C:\Users\Admin\Desktop\в\BD_Tryakin\BD_Tryakin\obj\Debug\Login.baml
+C:\Users\Admin\Desktop\в\BD_Tryakin\BD_Tryakin\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\в\BD_Tryakin\BD_Tryakin\obj\Debug\MainWindow_Admin.baml
+C:\Users\Admin\Desktop\в\BD_Tryakin\BD_Tryakin\obj\Debug\Registration.baml
+C:\Users\Admin\Desktop\в\BD_Tryakin\BD_Tryakin\obj\Debug\ReportInvoice.baml
+C:\Users\Admin\Desktop\в\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin.g.resources
+C:\Users\Admin\Desktop\в\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin.Properties.Resources.resources
+C:\Users\Admin\Desktop\в\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\в\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\в\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin.csproj.CopyComplete
+C:\Users\Admin\Desktop\в\BD_Tryakin\BD_Tryakin\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Desktop\в\BD_Tryakin\BD_Tryakin\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\в\BD_Tryakin\BD_Tryakin\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Desktop\в\BD_Tryakin\BD_Tryakin\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\в\BD_Tryakin\BD_Tryakin\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Desktop\в\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin_Content.g.cs
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\BD_Tryakin\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\BD_Tryakin\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\BD_Tryakin\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\BD_Tryakin\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\BD_Tryakin\bin\Debug\BD_Tryakin.exe.config
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\BD_Tryakin\bin\Debug\BD_Tryakin.exe
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\BD_Tryakin\bin\Debug\BD_Tryakin.pdb
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\BD_Tryakin\bin\Debug\EntityFramework.dll
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\BD_Tryakin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\BD_Tryakin\bin\Debug\MaterialDesignColors.dll
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\BD_Tryakin\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\BD_Tryakin\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\BD_Tryakin\bin\Debug\EntityFramework.xml
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\BD_Tryakin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\BD_Tryakin\bin\Debug\MaterialDesignColors.pdb
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\BD_Tryakin\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\BD_Tryakin\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin.csprojAssemblyReference.cache
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\BD_Tryakin\obj\Debug\AddElement.g.cs
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\BD_Tryakin\obj\Debug\Login.g.cs
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\BD_Tryakin\obj\Debug\MainWindow.g.cs
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\BD_Tryakin\obj\Debug\MainWindow_Admin.g.cs
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\BD_Tryakin\obj\Debug\Registration.g.cs
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\BD_Tryakin\obj\Debug\ReportInvoice.g.cs
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\BD_Tryakin\obj\Debug\App.g.cs
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin_Content.g.cs
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin_MarkupCompile.cache
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin_MarkupCompile.lref
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\BD_Tryakin\obj\Debug\App.baml
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\BD_Tryakin\obj\Debug\AddElement.baml
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\BD_Tryakin\obj\Debug\Login.baml
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\BD_Tryakin\obj\Debug\MainWindow.baml
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\BD_Tryakin\obj\Debug\MainWindow_Admin.baml
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\BD_Tryakin\obj\Debug\Registration.baml
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\BD_Tryakin\obj\Debug\ReportInvoice.baml
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin.g.resources
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin.Properties.Resources.resources
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin.csproj.GenerateResource.cache
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin.csproj.CoreCompileInputs.cache
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin.csproj.CopyComplete
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin.exe
+C:\Users\cyxar\OneDrive\Рабочий стол\CSharpCodes\BD_Tryakin\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin.pdb
+C:\Users\Admin\Desktop\говно из жопы\BD_Tryakin\BD_Tryakin\BD_Tryakin\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Desktop\говно из жопы\BD_Tryakin\BD_Tryakin\BD_Tryakin\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\говно из жопы\BD_Tryakin\BD_Tryakin\BD_Tryakin\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Desktop\говно из жопы\BD_Tryakin\BD_Tryakin\BD_Tryakin\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\говно из жопы\BD_Tryakin\BD_Tryakin\BD_Tryakin\bin\Debug\BD_Tryakin.exe.config
+C:\Users\Admin\Desktop\говно из жопы\BD_Tryakin\BD_Tryakin\BD_Tryakin\bin\Debug\BD_Tryakin.exe
+C:\Users\Admin\Desktop\говно из жопы\BD_Tryakin\BD_Tryakin\BD_Tryakin\bin\Debug\BD_Tryakin.pdb
+C:\Users\Admin\Desktop\говно из жопы\BD_Tryakin\BD_Tryakin\BD_Tryakin\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\говно из жопы\BD_Tryakin\BD_Tryakin\BD_Tryakin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\говно из жопы\BD_Tryakin\BD_Tryakin\BD_Tryakin\bin\Debug\MaterialDesignColors.dll
+C:\Users\Admin\Desktop\говно из жопы\BD_Tryakin\BD_Tryakin\BD_Tryakin\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Admin\Desktop\говно из жопы\BD_Tryakin\BD_Tryakin\BD_Tryakin\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Desktop\говно из жопы\BD_Tryakin\BD_Tryakin\BD_Tryakin\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\говно из жопы\BD_Tryakin\BD_Tryakin\BD_Tryakin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\говно из жопы\BD_Tryakin\BD_Tryakin\BD_Tryakin\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Admin\Desktop\говно из жопы\BD_Tryakin\BD_Tryakin\BD_Tryakin\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Admin\Desktop\говно из жопы\BD_Tryakin\BD_Tryakin\BD_Tryakin\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Admin\Desktop\говно из жопы\BD_Tryakin\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\говно из жопы\BD_Tryakin\BD_Tryakin\BD_Tryakin\obj\Debug\AddElement.g.cs
+C:\Users\Admin\Desktop\говно из жопы\BD_Tryakin\BD_Tryakin\BD_Tryakin\obj\Debug\Login.g.cs
+C:\Users\Admin\Desktop\говно из жопы\BD_Tryakin\BD_Tryakin\BD_Tryakin\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\говно из жопы\BD_Tryakin\BD_Tryakin\BD_Tryakin\obj\Debug\MainWindow_Admin.g.cs
+C:\Users\Admin\Desktop\говно из жопы\BD_Tryakin\BD_Tryakin\BD_Tryakin\obj\Debug\Registration.g.cs
+C:\Users\Admin\Desktop\говно из жопы\BD_Tryakin\BD_Tryakin\BD_Tryakin\obj\Debug\ReportInvoice.g.cs
+C:\Users\Admin\Desktop\говно из жопы\BD_Tryakin\BD_Tryakin\BD_Tryakin\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\говно из жопы\BD_Tryakin\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin_Content.g.cs
+C:\Users\Admin\Desktop\говно из жопы\BD_Tryakin\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin_MarkupCompile.cache
+C:\Users\Admin\Desktop\говно из жопы\BD_Tryakin\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin_MarkupCompile.lref
+C:\Users\Admin\Desktop\говно из жопы\BD_Tryakin\BD_Tryakin\BD_Tryakin\obj\Debug\App.baml
+C:\Users\Admin\Desktop\говно из жопы\BD_Tryakin\BD_Tryakin\BD_Tryakin\obj\Debug\AddElement.baml
+C:\Users\Admin\Desktop\говно из жопы\BD_Tryakin\BD_Tryakin\BD_Tryakin\obj\Debug\Login.baml
+C:\Users\Admin\Desktop\говно из жопы\BD_Tryakin\BD_Tryakin\BD_Tryakin\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\говно из жопы\BD_Tryakin\BD_Tryakin\BD_Tryakin\obj\Debug\MainWindow_Admin.baml
+C:\Users\Admin\Desktop\говно из жопы\BD_Tryakin\BD_Tryakin\BD_Tryakin\obj\Debug\Registration.baml
+C:\Users\Admin\Desktop\говно из жопы\BD_Tryakin\BD_Tryakin\BD_Tryakin\obj\Debug\ReportInvoice.baml
+C:\Users\Admin\Desktop\говно из жопы\BD_Tryakin\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin.g.resources
+C:\Users\Admin\Desktop\говно из жопы\BD_Tryakin\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin.Properties.Resources.resources
+C:\Users\Admin\Desktop\говно из жопы\BD_Tryakin\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\говно из жопы\BD_Tryakin\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\говно из жопы\BD_Tryakin\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin.csproj.CopyComplete
+C:\Users\Admin\Desktop\говно из жопы\BD_Tryakin\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin.exe
+C:\Users\Admin\Desktop\говно из жопы\BD_Tryakin\BD_Tryakin\BD_Tryakin\obj\Debug\BD_Tryakin.pdb

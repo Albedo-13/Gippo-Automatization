@@ -1,0 +1,38 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BD_Tryakin"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" x:Class="BD_Tryakin.MainWindow_Admin"
+        mc:Ignorable="d"
+        Title="Основное окно админа" Height="550" Width="800" ResizeMode="NoResize" WindowStyle="None" WindowStartupLocation="CenterScreen">
+
+    <Grid>
+        <Button x:Name="Button_Add" Height="30" Margin="303,505,375,15" Background="#FF4500" Foreground="White" BorderBrush="#FF4500" FontWeight="Bold" Content="Добавить" />
+        <Button x:Name="Button_WriteOff" Height="30" Margin="687,504,10,16" Background="#FF4500" Foreground="White" BorderBrush="#FF4500" FontWeight="Bold" Content="Списать" />
+        <Button x:Name="Button_Save" Height="30" Margin="160,505,507,15" Background="#FF4500" Foreground="White" BorderBrush="#FF4500" FontWeight="Bold" Content="Сохранить"/>
+        <Button x:Name="Button_Delete" Height="30" Margin="686,467,10,53" Background="#FF4500" Foreground="White" BorderBrush="#FF4500" FontWeight="Bold" Content="Удалить"/>
+        <Button x:Name="Button_Report" Height="30" Margin="9,505,651,15" Background="#FF4500" Foreground="White" BorderBrush="#FF4500" FontWeight="Bold" Content="Создать отчет"/>
+        <Button x:Name="Button_Refresh" Height="30" Margin="575,504,121,16" Background="#c9cd00" Foreground="White" BorderBrush="#c9cd00" FontWeight="Bold" Content="Обновить"/>
+        <Button Content="Выход" HorizontalAlignment="Left" Margin="438,504,0,0" VerticalAlignment="Top" Background="#FF0000" Foreground="White" Height="30" BorderBrush="#FF4500" FontSize="15" FontWeight="Bold" Width="131" Click="Button_Click_1"/>
+
+
+        <DataGrid x:Name="Gippo_DG" AutoGenerateColumns="False" Margin="0,92,0,99">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding Name_Product}" Header="Название"/>
+                <DataGridTextColumn Binding="{Binding ProductCount_Product}" Header="Количество"/>
+                <DataGridTextColumn Binding="{Binding Description_Product}" Header="Описание"/>
+                <DataGridTextColumn Binding="{Binding Price_Product}" Header="Цена"/>
+                <DataGridTextColumn Binding="{Binding ProductTypes.Name_ProductType}" Header="Тип товара"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <TextBox x:Name="CountP" materialDesign:HintAssist.Hint="Количество" materialDesign:HintAssist.Foreground="#FF4500" materialDesign:TextFieldAssist.UnderlineBrush="#FF4500" Foreground="#FF4500" Style="{StaticResource MaterialDesignFloatingHintTextBox}"  FontSize="17" HorizontalAlignment="Left" Height="48" Margin="263,8,0,0"  VerticalAlignment="Top" Width="125" RenderTransformOrigin="0.517,0.522"/>
+        <TextBox x:Name="PriceP" materialDesign:HintAssist.Hint="Цена" materialDesign:HintAssist.Foreground="#FF4500" materialDesign:TextFieldAssist.UnderlineBrush="#FF4500" Foreground="#FF4500" Style="{StaticResource MaterialDesignFloatingHintTextBox}"  FontSize="17" HorizontalAlignment="Left" Height="51" Margin="405,5,0,0"  VerticalAlignment="Top" Width="120"/>
+        <Button Content="Поиск" Background="#FF4500" Foreground="White" BorderBrush="#FF4500" FontSize="15" FontWeight="Bold" HorizontalAlignment="Left" Margin="573,26,0,0" VerticalAlignment="Top" Width="138" Click="Button_Click"/>
+        <TextBox x:Name="Name"  materialDesign:HintAssist.Hint="Название" materialDesign:HintAssist.Foreground="#FF4500" materialDesign:TextFieldAssist.UnderlineBrush="#FF4500"  Foreground="#FF4500" Style="{StaticResource MaterialDesignFloatingHintTextBox}"  FontSize="17" Margin="105,9,547,494"/>
+        <Button x:Name="ButtonReference" VerticalAlignment="Center" Background="{x:Null}" BorderBrush="{x:Null}" Padding="0" Foreground="#c9cd00" Margin="761,19,11,487" Height="44" Click="ButtonReference_Click">
+            <materialDesign:PackIcon Kind="Information" Width="28" Height="25" RenderTransformOrigin="0.583,0.62"/>
+        </Button>
+    </Grid>
+</Window>

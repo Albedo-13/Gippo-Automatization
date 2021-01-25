@@ -91,83 +91,13 @@ namespace BD_Tryakin
         }
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            string componentsInfoQuery = string.Empty;
+            var included_FK_Tables = db.Products.Include(fk => fk.ProductTypes);
 
-            if (Name.Text == string.Empty && CountP.Text == string.Empty && PriceP.Text == string.Empty)
-            {
-                System.Windows.MessageBox.Show("Поля поиска не заполнены.", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
-                return;
-            }
-            //Название
-            if (Name.Text != string.Empty && CountP.Text == string.Empty && PriceP.Text == string.Empty)
-            {
-                componentsInfoQuery = "SELECT Id_Product, Name_Product, ProductCount_Product,Description_Product, Price_Product " +
-                "FROM ProductTypes " +
-                "JOIN Products ON ProductTypes.Id_ProductType = Products.Id_ProductType " +
-                "WHERE Name_Product = '" + Name.Text + "'";
-            }
-            //Количество
-            if (Name.Text == string.Empty && CountP.Text != string.Empty && PriceP.Text == string.Empty)
-            {
-                componentsInfoQuery = "SELECT Id_Product, Name_Product, ProductCount_Product,Description_Product, Price_Product " +
-                "FROM ProductTypes " +
-                "JOIN Products ON ProductTypes.Id_ProductType = Products.Id_ProductType " +
-                "WHERE ProductCount_Product = '" + Convert.ToInt32(CountP.Text) + "'";
-            }
-            //Цена
-            if (Name.Text == string.Empty && CountP.Text == string.Empty && PriceP.Text != string.Empty)
-            {
-                componentsInfoQuery = "SELECT Id_Product, Name_Product, ProductCount_Product, Description_Product, Price_Product " +
-                "FROM ProductTypes " +
-                "JOIN Products ON ProductTypes.Id_ProductType = Products.Id_ProductType " +
-                "WHERE Price_Product = '" + PriceP.Text + "'";
-            }
-            //Название Количество 
-            if (Name.Text != string.Empty && CountP.Text != string.Empty && PriceP.Text == string.Empty)
-            {
-                componentsInfoQuery = "SELECT Id_Product, Name_Product, ProductCount_Product, Description_Product, Price_Product " +
-                "FROM ProductTypes " +
-                "JOIN Products ON ProductTypes.Id_ProductType = Products.Id_ProductType " +
-                "WHERE Name_Product = '" + Name.Text + "' AND ProductCount_Product = '" + Convert.ToInt32(CountP.Text) + "'";
-            }
-            //Название цена
-            if (Name.Text != string.Empty && CountP.Text == string.Empty && PriceP.Text != string.Empty)
-            {
-                componentsInfoQuery = "SELECT Id_Product, Name_Product, ProductCount_Product, Description_Product, Price_Product " +
-                "FROM ProductTypes " +
-                "JOIN Products ON ProductTypes.Id_ProductType = Products.Id_ProductType " +
-                "WHERE Name_Product = '" + Name.Text + "'AND Price_Product = '" + PriceP.Text + "'";
-            }
-            //Количество цена
-            if (Name.Text == string.Empty && CountP.Text != string.Empty && PriceP.Text != string.Empty)
-            {
-                componentsInfoQuery = "SELECT Id_Product, Name_Product, ProductCount_Product, Description_Product, Price_Product " +
-                "FROM ProductTypes " +
-                "JOIN Products ON ProductTypes.Id_ProductType = Products.Id_ProductType " +
-                "WHERE ProductCount_Product = '" + Convert.ToInt32(CountP.Text) + "'AND Price_Product = '" + PriceP.Text + "'";
-            }
-            //Название количество цена
-            if (Name.Text != string.Empty && CountP.Text != string.Empty && PriceP.Text != string.Empty)
-            {
-                componentsInfoQuery = "SELECT Id_Product, Name_Product, ProductCount_Product, Description_Product, Price_Product " +
-                "FROM ProductTypes " +
-                "JOIN Products ON ProductTypes.Id_ProductType = Products.Id_ProductType " +
-                "WHERE Name_Product  = '" + Name.Text + "'AND ProductCount_Product = '" + Convert.ToInt32(CountP.Text) + "'AND Price_Product  = '" + PriceP.Text + "'";
-            }
-            string connectionString = @"Data Source = (local)\SQLEXPRESS; Initial Catalog = GippoBase; Integrated Security = True";
-            SqlConnection connection = new SqlConnection(connectionString);
-            connection.Open();
+            var filtered = included_FK_Tables.Where(v => v.Name_Product.Contains(Name.Text)
+            && v.ProductCount_Product.ToString().Contains(CountP.Text)
+            && v.Price_Product.ToString().Contains(PriceP.Text));
 
-            DataTable table = new DataTable();
-            using (SqlCommand cmd = new SqlCommand(componentsInfoQuery, connection))
-            {
-                using (IDataReader rdr = cmd.ExecuteReader())
-                {
-                    table.Load(rdr);
-                }
-            }
-            Gippo_DG.ItemsSource = table.DefaultView;
-            connection.Close();
+            Gippo_DG.ItemsSource = filtered.ToList();
         }
 
         private void Button_Click_1(object sender, RoutedEventArgs e)

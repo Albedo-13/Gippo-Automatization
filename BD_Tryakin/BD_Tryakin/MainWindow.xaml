@@ -15,7 +15,7 @@
         <TextBox x:Name="PriceP" materialDesign:HintAssist.Hint="Цена" materialDesign:HintAssist.Foreground="#FF4500" materialDesign:TextFieldAssist.UnderlineBrush="#FF4500" Foreground="#FF4500" Style="{StaticResource MaterialDesignFloatingHintTextBox}"  FontSize="17" HorizontalAlignment="Left" Height="51" Margin="405,5,0,0"  VerticalAlignment="Top" Width="120"/>
         <Button Content="Поиск" Background="#FF4500" Foreground="White" BorderBrush="#FF4500" FontSize="15" FontWeight="Bold" HorizontalAlignment="Left" Margin="573,26,0,0" VerticalAlignment="Top" Width="138" Click="Button_Click"/>
         <TextBox x:Name="Name"  materialDesign:HintAssist.Hint="Название" materialDesign:HintAssist.Foreground="#FF4500" materialDesign:TextFieldAssist.UnderlineBrush="#FF4500"  Foreground="#FF4500" Style="{StaticResource MaterialDesignFloatingHintTextBox}"  FontSize="17" Margin="102,6,558,394"/>
-        <Button Content="Выход" HorizontalAlignment="Left" Margin="418,408,0,0" VerticalAlignment="Top" Background="#FF0000" Foreground="White" Height="30" BorderBrush="#FF4500" FontSize="15" FontWeight="Bold" Width="131" Click="Button_Click_1"/>
+        <Button Content="Выход" HorizontalAlignment="Left" Margin="681,408,0,0" VerticalAlignment="Top" Background="#FF0000" Foreground="White" Height="30" BorderBrush="#FF4500" FontSize="15" FontWeight="Bold" Width="109" Click="Button_Click_1"/>
         <Button x:Name="Button_Refresh" Height="30" Margin="554,408,124,12" Background="#c9cd00" Foreground="White" BorderBrush="#c9cd00" FontWeight="Bold">Обновить</Button>
         <ListView x:Name="Gippo_DG" Margin="2,69,1,64">
             <ListView.View>
@@ -28,7 +28,7 @@
                 </GridView>
             </ListView.View>
         </ListView>
-        <Button x:Name="Button_WriteOff" Height="30" Margin="681,408,5,12" Background="#FF4500" Foreground="White" BorderBrush="#FF4500" FontWeight="Bold" Content="Списать" />
+        <Button x:Name="Button_WriteOff" Height="30" Margin="418,408,251,12" Background="#FF4500" Foreground="White" BorderBrush="#FF4500" FontWeight="Bold" Content="Списать" />
         <Button x:Name="ButtonReference" VerticalAlignment="Center" Background="{x:Null}" BorderBrush="{x:Null}" Padding="0" Foreground="#c9cd00" Margin="761,19,11,387" Height="44" Click="ButtonReference_Click">
             <materialDesign:PackIcon Kind="Information" Width="28" Height="25" RenderTransformOrigin="0.583,0.62"/>
         </Button>

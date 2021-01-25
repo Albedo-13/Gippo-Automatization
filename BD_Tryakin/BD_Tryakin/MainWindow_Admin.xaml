@@ -10,13 +10,12 @@
 
     <Grid>
         <Button x:Name="Button_Add" Height="30" Margin="303,505,375,15" Background="#FF4500" Foreground="White" BorderBrush="#FF4500" FontWeight="Bold" Content="Добавить" />
-        <Button x:Name="Button_WriteOff" Height="30" Margin="687,504,10,16" Background="#FF4500" Foreground="White" BorderBrush="#FF4500" FontWeight="Bold" Content="Списать" />
+        <Button x:Name="Button_WriteOff" Height="30" Margin="440,504,239,16" Background="#FF4500" Foreground="White" BorderBrush="#FF4500" FontWeight="Bold" Content="Списать" />
         <Button x:Name="Button_Save" Height="30" Margin="160,505,507,15" Background="#FF4500" Foreground="White" BorderBrush="#FF4500" FontWeight="Bold" Content="Сохранить"/>
         <Button x:Name="Button_Delete" Height="30" Margin="686,467,10,53" Background="#FF4500" Foreground="White" BorderBrush="#FF4500" FontWeight="Bold" Content="Удалить"/>
         <Button x:Name="Button_Report" Height="30" Margin="9,505,651,15" Background="#FF4500" Foreground="White" BorderBrush="#FF4500" FontWeight="Bold" Content="Создать отчет"/>
         <Button x:Name="Button_Refresh" Height="30" Margin="575,504,121,16" Background="#c9cd00" Foreground="White" BorderBrush="#c9cd00" FontWeight="Bold" Content="Обновить"/>
-        <Button Content="Выход" HorizontalAlignment="Left" Margin="438,504,0,0" VerticalAlignment="Top" Background="#FF0000" Foreground="White" Height="30" BorderBrush="#FF4500" FontSize="15" FontWeight="Bold" Width="131" Click="Button_Click_1"/>
-
+        <Button Content="Выход" HorizontalAlignment="Left" Margin="686,504,0,0" VerticalAlignment="Top" Background="#FF0000" Foreground="White" Height="30" BorderBrush="#FF4500" FontSize="15" FontWeight="Bold" Width="103" Click="Button_Click_1"/>
 
         <DataGrid x:Name="Gippo_DG" AutoGenerateColumns="False" Margin="0,92,0,99">
             <DataGrid.Columns>

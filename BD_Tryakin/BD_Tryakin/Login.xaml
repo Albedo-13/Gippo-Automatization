@@ -20,6 +20,6 @@
 
         <TextBlock FontSize="15" HorizontalAlignment="Left" Margin="124,318,0,0"  TextWrapping="Wrap" Text="Нет аккаунта?"  VerticalAlignment="Top" Height="21" Width="104" FontWeight="Bold"/>
         <Button FontSize="15" x:Name="RegistrationButton" FontWeight="Bold" Content="Регистрация" Background="#FF4500" Foreground="White" BorderBrush="#FF4500" HorizontalAlignment="Left" Margin="78,349,0,0" VerticalAlignment="Top" Width="193" Height="39"/>
-        <Button FontSize="15" Content="Выход" HorizontalAlignment="Left" FontWeight="Bold" Margin="78,419,0,0" Background="#FF4500" Foreground="White" BorderBrush="#FF4500" VerticalAlignment="Top" Width="190" Height="41" Click="Button_Click"/>
+        <Button FontSize="15" Content="Выход" HorizontalAlignment="Left" FontWeight="Bold" Margin="78,419,0,0" Background="#FF0000" Foreground="White" BorderBrush="#FF4500" VerticalAlignment="Top" Width="190" Height="41" Click="Button_Click"/>
     </Grid>
 </Window>

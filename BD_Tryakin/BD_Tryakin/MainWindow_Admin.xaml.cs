@@ -115,7 +115,6 @@ namespace BD_Tryakin
         }
 
         // Разобраться в ресурсами
-        // запушить в гит, добавить юнит-тесты и СНОВА ЗАПУШИТЬ В ГИТ!
         private void Button_Click(object sender, RoutedEventArgs e)//Поиск по критериям
         {
             var included_FK_Tables = db.Products.Include(fk => fk.ProductTypes);

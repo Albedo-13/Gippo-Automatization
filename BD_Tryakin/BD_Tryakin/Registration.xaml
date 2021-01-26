@@ -23,7 +23,7 @@
         <Button x:Name="RegistrationButton" Content="Регистрация" Background="#FF4500" Foreground="White" BorderBrush="#FF4500" FontSize="15" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Bottom" Width="176" Margin="119,0,105,140" Height="36"/>
         <TextBlock HorizontalAlignment="Left" FontSize="15" FontWeight="Bold" Margin="119,496,0,0" TextWrapping="Wrap" Text="Уже зарегистрированы?" VerticalAlignment="Top" Height="20" Width="180"/>
         <Button x:Name="LoginButton" Content="Вход" Background="#FF4500" Foreground="White" BorderBrush="#FF4500" FontSize="15" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Bottom" Width="176" Margin="120,0,104,70" Height="36"/>
-        <Button FontSize="15" Content="Выход" HorizontalAlignment="Left" FontWeight="Bold" Margin="121,575,0,0" Background="#FF4500" Foreground="White" BorderBrush="#FF4500" VerticalAlignment="Top" Width="176" Height="36" Click="Button_Click"/>
+        <Button FontSize="15" Content="Выход" HorizontalAlignment="Left" FontWeight="Bold" Margin="121,575,0,0" Background="#FF0000" Foreground="White" BorderBrush="#FF4500" VerticalAlignment="Top" Width="176" Height="36" Click="Button_Click"/>
 
     </Grid>
 </Window>
